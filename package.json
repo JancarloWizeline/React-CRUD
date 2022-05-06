@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "styled-components": "5.3.5",
+    "antd": "4.19.5",
+    "axios": "0.26.1",
+    "formik": "2.2.9",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.0.1",
     "@testing-library/user-event": "^13.5.0",
